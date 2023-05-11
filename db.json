@@ -1,8 +1,8 @@
 {
   "tracks": [
-    { "id": 1, "title": "Magnum Opus", "author": "XYXXYYYXXYX"},
-    { "id": 2, "title": "Shinimasu", "author": "In Her Hate" },
-    { "id": 3, "title": "Full metal dildo", "author": "Ohota" },
-    { "id": 4, "title": "Comic relief", "author": "Blackshots" }
+    { "id": 1, "title": "Gnosienne", "author": "XYXXYYYXXYX", "link": "https://soundcloud.com/xyxxyyyxxyx/gnossienne"},
+    { "id": 2, "title": "Shinimasu", "author": "In Her Hate", "link": "https://soundcloud.com/hatredsecondsight/shinimasu" },
+    { "id": 3, "title": "Full metal dildo", "author": "Ohota", "link": "https://soundcloud.com/ohota/total" },
+    { "id": 4, "title": "Comic relief", "author": "Blackshots", "link": "https://soundcloud.com/blackshotsofficial/comic-relief" }
   ]
 }
