@@ -1,8 +1,64 @@
 {
-  "tracks": [
-    { "id": 1, "title": "Gnosienne", "author": "XYXXYYYXXYX", "link": "https://soundcloud.com/xyxxyyyxxyx/gnossienne"},
-    { "id": 2, "title": "Shinimasu", "author": "In Her Hate", "link": "https://soundcloud.com/hatredsecondsight/shinimasu" },
-    { "id": 3, "title": "Full metal dildo", "author": "Ohota", "link": "https://soundcloud.com/ohota/total" },
-    { "id": 4, "title": "Comic relief", "author": "Blackshots", "link": "https://soundcloud.com/blackshotsofficial/comic-relief" }
-  ]
+	"tracks": [
+		{
+			"id": 1,
+			"title": "Gnosienne",
+			"author": "XYXXYYYXXYX",
+			"link": "https://soundcloud.com/xyxxyyyxxyx/gnossienne"
+		},
+		{
+			"id": 2,
+			"title": "Shinimasu",
+			"author": "In Her Hate",
+			"link": "https://soundcloud.com/hatredsecondsight/shinimasu"
+		},
+		{
+			"id": 3,
+			"title": "Full metal dildo",
+			"author": "Ohota",
+			"link": "https://soundcloud.com/ohota/total"
+		},
+		{
+			"id": 4,
+			"title": "Comic relief",
+			"author": "Blackshots",
+			"link": "https://soundcloud.com/blackshotsofficial/comic-relief"
+		},
+		{
+			"id": 5,
+			"title": "Reality",
+			"author": "Swarz",
+			"link": "https://soundcloud.com/swarzprod/swarz-reality"
+		},
+		{
+			"id": 6,
+			"title": "Lawless",
+			"author": "Revizia",
+			"link": "https://soundcloud.com/jet-set-trash/revizia-lawless"
+		},
+		{
+			"id": 7,
+			"title": "TROPICAL/WRIST",
+			"author": "Father",
+			"link": "https://soundcloud.com/father/tropicalwrist-original-mix"
+		},
+		{
+			"id": 8,
+			"title": "The Eye of My Mother",
+			"author": "Moris Blak & Cable",
+			"link": "https://soundcloud.com/moris-blak/the-eyes-of-my-mother-feat-cable"
+		},
+		{
+			"id": 9,
+			"title": "Death's dieary",
+			"author": "VNN",
+			"link": "https://soundcloud.com/vvnzquan/deathsdiary"
+		},
+		{
+			"id": 9,
+			"title": "Caracol",
+			"author": "Ivan Reich",
+			"link": "https://soundcloud.com/moretinmusic/ivan-reich-caracol"
+		}
+	]
 }
